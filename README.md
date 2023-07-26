@@ -1,14 +1,42 @@
 <h2>Hey 👋, I'm <a href="https://Ayman.me/">Ayman</a></h2>
 <p>I'm currently a student software engineer at <ALX><a href="[https://www.alxafrica..com](https://www.alxafrica.com/)/">ALX</a></strong> .I graduated from Business College in 2022, and now I am completing my way of programming, learning a couple new dishes, and trying to conquer the world.</p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🏦 I’m currently working on Bank misr 
 <li>🧐 Learning about <strong>Financal Analysis </strong>, <strong>Finance</strong>, and <strong>Programming</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Aymanxx1">Github</a>.</li>
 <li>🎉 Fun Fact: 我也会讲中文。</li>
+
+
+
+
+
+
+
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
