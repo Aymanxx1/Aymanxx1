@@ -7,8 +7,6 @@
 <li>🏦 I’m currently working on Bank misr 
 <li>🧐 Learning about <strong>Financal Analysis </strong>, <strong>Finance</strong>, and <strong>Programming</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Aymanxx1">Github</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
 
